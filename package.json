@@ -3,12 +3,9 @@
   "version": "1.0.0",
   "description": "A controller generator for RouteSmith using Sequelize to interact with databases.",
   "main": "index.js",
-  "scripts": {
-    "test": ""
-  },
   "repository": {
     "type": "git",
-    "url": "git+https://gitlab.com/Kurnett/routesmith-sequelize.git"
+    "url": "git+https://github.com/Kurnett/routesmith-sequelize.git"
   },
   "dependencies": {
     "routesmith": "~1.0.4"
@@ -23,7 +20,6 @@
   "author": "Kurnett",
   "license": "MIT",
   "bugs": {
-    "url": "https://gitlab.com/Kurnett/routesmith-sequelize/issues"
-  },
-  "homepage": "https://gitlab.com/Kurnett/routesmith-sequelize#README"
+    "url": "https://github.com/Kurnett/routesmith-sequelize/issues"
+  }
 }
